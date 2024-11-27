@@ -1,0 +1,130 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/criar-tarefa.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="icon" href="~/img/vt.png" sizes="32x32">
+    <title>Criar Tarefa</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="/img/logo-visiontec-white.png" alt="Logo Visiontec">
+        </div>
+        <div id="nome-usuario" class="nome-usuario">
+            Olá, <span id="nome-usuario-texto">Visitante</span>!
+        </div>
+        <a href="@Url.Action("Index", "Home")">
+            <img class="icones" src="/img/Home.png" alt="Início" style="width: 18px; height: 18px;">
+        </a>
+        <a href="@Url.Action("criarTarefa", "Home")">
+            <img class="icones" src="/img/mais.png" alt="Nova Tarefa" style="width: 18px; height: 18px;">
+        </a>
+        <a href="@Url.Action("minhasTarefas","Home")">
+            <img class="icones" src="/img/tarefa.png" alt="Minhas Tarefas" style="width: 18px; height: 18px;">
+        </a>
+        <a href="@Url.Action("dashboard", "Home")">
+            <img class="icones" src="/img/Dashboard.png" alt="Dashboard" style="width: 18px; height: 18px;">
+        </a>
+        <div id="notificacao-container" style="position: relative; cursor: pointer;" onclick="mostrarNotificacoes()">
+            <img src="/img/sinos.png" alt="Notificações" id="notificacao-icone" style="width: 18px; height: 18px; margin: 0 12px;">
+            <span id="quantidade-notificacoes" style="position: absolute; top: 0; right: 0; background-color: red; color: white; border-radius: 50%; padding: 0.2em 0.5em; font-size: 12px; display: none;">0</span>
+        </div>
+        <a href="login.html">
+            <img id="menu-icon" src="/img/sair.svg" alt="Sair" style="width: 18px; height: 18px;">
+        </a>
+        <div id="menu-links" style="display: none;">
+            <a href="login.html">Sair</a>
+        </div>
+    </nav>
+    <h1>Criar Tarefa</h1>
+    <form id="form-tarefa">
+        <div class="numero-tarefa-container">
+            <div id="numero-tarefa"></div>
+        </div>
+
+        <label for="titulo">Título:</label>
+        <input type="text" id="titulo" name="titulo" required style="background-color: #fff;">
+
+        <label for="descricao">Descrição:</label>
+        <textarea id="descricao" name="descricao" required style="background-color: #fff; height: 100px;"></textarea>
+
+        <label for="responsavel">Responsável:</label>
+        <select id="responsavel" name="responsavel" required style="background-color: #fff;">
+            <option value="">Selecione um usuário</option>
+
+        </select>
+
+        <label for="grupo" style="margin-top: 15px;">Grupo:</label>
+        <div id="lista-grupos-container">
+            <label for="lista-grupos">Selecione um Grupo:</label>
+            <select id="lista-grupos" name="lista-grupos">
+            </select>
+        </div>
+        <a href="#" id="criar-grupo-link" style="text-decoration: none; margin-top: 15px;" onclick="abrirModalGrupo()"><img src="/img/user-add.svg" style="width:25px; margin-top: 15px;" title="Criar Grupo" alt="Criar G"></a>
+        <a href="grupos.html" id="criar-grupo-link" style="text-decoration: none;"><img src="/img/user-group.svg" title="Ver Grupos" style="width: 25px; margin-left: 15px;" alt="Ver Grupos"></a>
+        <hr style="margin-bottom: 15px; margin-top: 15px;">
+
+        <label>Prioridade:</label>
+        <div class="radio-prioridade">
+            <input type="radio" id="prioridade-alta" name="prioridade" value="Alta" required>
+            <label for="prioridade-alta">
+                <span class="cor-alta"></span> Alta (24h)
+            </label>
+        </div>
+        <div class="radio-prioridade">
+            <input type="radio" id="prioridade-media" name="prioridade" value="Média" required>
+            <label for="prioridade-media">
+                <span class="cor-media"></span> Média (48h)
+            </label>
+        </div>
+        <div class="radio-prioridade">
+            <input type="radio" id="prioridade-baixa" name="prioridade" value="Baixa" required>
+            <label for="prioridade-baixa">
+                <span class="cor-baixa"></span> Baixa (72h)
+            </label>
+        </div>
+
+        <div>
+            <label for="prazoFinal">Escolha manualmente a data desejada:</label>
+            <input type="date" id="prazoFinal" name="prazoFinal" style="background-color: #fff;">
+        </div>
+
+        <hr style="margin-bottom: 15px; margin-top: 15px;">
+
+        <label for="criadoPor">Criado por:</label>
+        <input type="text" id="criadoPor" name="criadoPor" readonly>
+
+        <button class="btnCriar-Tarefa" type="submit">Criar Tarefa</button>
+        <button type="button" class="btnLimpar" onclick="limparFormulario()" style="background-color: #f8df00; color: black; padding: 12px 20px; border: none; cursor: pointer; margin-top: 15px; margin-left: 10px;">
+            Limpar
+        </button>
+    </form>
+
+    <div id="modal-grupo" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="fecharModalGrupo()">&times;</span>
+            <h2>Criar Novo Grupo</h2>
+            <label for="nome-grupo">Nome do Grupo:</label>
+            <input type="text" id="nome-grupo" name="nome-grupo" required>
+
+            <label for="usuarios">Adicionar Usuários:</label>
+            <div class="usuarios-container">
+                <select id="usuarios" name="usuarios" multiple size="6" style="background-color: #fff;">
+                </select>
+            </div>
+            <div id="usuarios-adicionados-container" style="margin-top: 15px;">
+                <h3>Usuários Adicionados</h3>
+                <ul id="usuarios-adicionados-list">
+                </ul>
+            </div>
+            <button type="button" id="adicionar-usuario">Adicionar Usuário</button>
+
+            <button type="button">Salvar Grupo</button>
+        </div>
+    </div>
+</body>
+</html>

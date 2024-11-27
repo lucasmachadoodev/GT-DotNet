@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GT-Visiontec.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GT-Visiontec.cxidye8ze0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\css\\criar-tarefa.css",
+      "PackagePath": "staticwebassets\\css\\criar-tarefa.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\css\\minhas-tarefas.css",
+      "PackagePath": "staticwebassets\\css\\minhas-tarefas.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\FUNDO.jpeg",
+      "PackagePath": "staticwebassets\\img\\FUNDO.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\andamento.png",
+      "PackagePath": "staticwebassets\\img\\andamento.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\atencao.svg",
+      "PackagePath": "staticwebassets\\img\\atencao.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\btnAndamento.png",
+      "PackagePath": "staticwebassets\\img\\btnAndamento.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\btnCheck.png",
+      "PackagePath": "staticwebassets\\img\\btnCheck.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\btnDelete.png",
+      "PackagePath": "staticwebassets\\img\\btnDelete.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\btnPendente.png",
+      "PackagePath": "staticwebassets\\img\\btnPendente.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\btnStop.png",
+      "PackagePath": "staticwebassets\\img\\btnStop.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\cadastrar.png",
+      "PackagePath": "staticwebassets\\img\\cadastrar.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\check.svg",
+      "PackagePath": "staticwebassets\\img\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\concluida.png",
+      "PackagePath": "staticwebassets\\img\\concluida.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\concluida.svg",
+      "PackagePath": "staticwebassets\\img\\concluida.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\dashboard.png",
+      "PackagePath": "staticwebassets\\img\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\delete.svg",
+      "PackagePath": "staticwebassets\\img\\delete.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\deleteuser.svg",
+      "PackagePath": "staticwebassets\\img\\deleteuser.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\edit.svg",
+      "PackagePath": "staticwebassets\\img\\edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\excluir.png",
+      "PackagePath": "staticwebassets\\img\\excluir.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\grayclock.svg",
+      "PackagePath": "staticwebassets\\img\\grayclock.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\ham.png",
+      "PackagePath": "staticwebassets\\img\\ham.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\home.png",
+      "PackagePath": "staticwebassets\\img\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\iconvt.svg",
+      "PackagePath": "staticwebassets\\img\\iconvt.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\info.png",
+      "PackagePath": "staticwebassets\\img\\info.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\listatarefa.png",
+      "PackagePath": "staticwebassets\\img\\listatarefa.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\login.png",
+      "PackagePath": "staticwebassets\\img\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\logo-visiontec-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-visiontec-white.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\mais.png",
+      "PackagePath": "staticwebassets\\img\\mais.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\pendente.png",
+      "PackagePath": "staticwebassets\\img\\pendente.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\pendente.svg",
+      "PackagePath": "staticwebassets\\img\\pendente.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\progress.svg",
+      "PackagePath": "staticwebassets\\img\\progress.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\sair.svg",
+      "PackagePath": "staticwebassets\\img\\sair.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\search-icon.svg",
+      "PackagePath": "staticwebassets\\img\\search-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\seta.png",
+      "PackagePath": "staticwebassets\\img\\seta.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\setadown.svg",
+      "PackagePath": "staticwebassets\\img\\setadown.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\setaup.svg",
+      "PackagePath": "staticwebassets\\img\\setaup.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\sinos.png",
+      "PackagePath": "staticwebassets\\img\\sinos.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\stop.png",
+      "PackagePath": "staticwebassets\\img\\stop.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\stop.svg",
+      "PackagePath": "staticwebassets\\img\\stop.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\support.svg",
+      "PackagePath": "staticwebassets\\img\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\support.svg.svg",
+      "PackagePath": "staticwebassets\\img\\support.svg.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\tarefa.png",
+      "PackagePath": "staticwebassets\\img\\tarefa.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\user-add.svg",
+      "PackagePath": "staticwebassets\\img\\user-add.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\user-group.svg",
+      "PackagePath": "staticwebassets\\img\\user-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\vencida.png",
+      "PackagePath": "staticwebassets\\img\\vencida.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\vencida.svg",
+      "PackagePath": "staticwebassets\\img\\vencida.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\vt.png",
+      "PackagePath": "staticwebassets\\img\\vt.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\x.png",
+      "PackagePath": "staticwebassets\\img\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\img\\yelloprogress.svg",
+      "PackagePath": "staticwebassets\\img\\yelloprogress.svg"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas.silva\\source\\repos\\GT-Visiontec\\GT-Visiontec\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GT-Visiontec.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GT-Visiontec.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GT-Visiontec.props",
+      "PackagePath": "build\\GT-Visiontec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GT-Visiontec.props",
+      "PackagePath": "buildMultiTargeting\\GT-Visiontec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GT-Visiontec.props",
+      "PackagePath": "buildTransitive\\GT-Visiontec.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
